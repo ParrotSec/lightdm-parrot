@@ -1,2 +1,0 @@
-# lightdm-parrot
-lightdm configurations
