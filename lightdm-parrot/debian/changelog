@@ -1,0 +1,6 @@
+lightdm-parrot (2.3+parrot0) testing; urgency=medium
+
+  * Debianize source code
+  * Change wallpaper
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Sat, 23 Jul 2016 10:56:32 +0400
