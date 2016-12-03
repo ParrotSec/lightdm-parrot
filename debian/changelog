@@ -1,3 +1,9 @@
+lightdm-parrot (2.4+parrot0) testing; urgency=medium
+
+  * update config files
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sat, 03 Dec 2016 01:05:04 +0100
+
 lightdm-parrot (2.3+parrot0) testing; urgency=medium
 
   [ Lisetta "Sheireen" Ferrero ]
