@@ -1,3 +1,10 @@
+lightdm-parrot (2.5+parrot0) testing; urgency=medium
+
+  * update background image
+  * update package structure
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 04 Dec 2016 19:02:49 +0100
+
 lightdm-parrot (2.4+parrot0) testing; urgency=medium
 
   * update config files
