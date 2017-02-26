@@ -1,3 +1,10 @@
+lightdm-parrot (2.6+parrot0) testing; urgency=medium
+
+  * Add onboard keyboard
+  * Enable accessibility features
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 26 Feb 2017 19:01:04 +0100
+
 lightdm-parrot (2.5+parrot0) testing; urgency=medium
 
   * update background image
