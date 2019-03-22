@@ -1,3 +1,9 @@
+lightdm-parrot (4.6+parrot1) testing; urgency=medium
+
+  * Change background image.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 22 Mar 2019 08:49:25 +0100
+
 lightdm-parrot (2.7+parrot2) testing; urgency=medium
 
   * Rebuild package.
