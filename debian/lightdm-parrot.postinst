@@ -1,6 +1,0 @@
-#!/bin/bash
-set -e
-cat /usr/lib/lightdm-parrot/lightdm.conf > /etc/lightdm/lightdm.conf
-cat /usr/lib/lightdm-parrot/lightdm-gtk-greeter.conf > /etc/lightdm/lightdm-gtk-greeter.conf
-cat /usr/lib/lightdm-parrot/users.conf > /etc/lightdm/users.conf
-cat /usr/lib/lightdm-parrot/wallpaper.jpg > /etc/lightdm/wallpaper.jpg
