@@ -10,7 +10,7 @@ Homepage: https://parrotsec.org
 
 Package: lightdm-parrot
 Architecture: all
-Depends: lightdm
-Replaces: lightdm, slick-greeter
+Depends: lightdm, slick-greeter
+Replaces: lightdm, slick-greeter, lightdm-gtk-greeter
 Description: lightdm login theme for Parrot OS
  This package provides the Parrot OS theme for LightDM Display Manager (login screen)

@@ -1,3 +1,9 @@
+lightdm-parrot (4.9.1) rolling-testing; urgency=medium
+
+  * Fix conflict with lightdm-gtk-greeter
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 30 Apr 2020 03:34:47 +0200
+
 lightdm-parrot (4.9+parrot1) testing; urgency=medium
 
   * Use slick-greeter.
